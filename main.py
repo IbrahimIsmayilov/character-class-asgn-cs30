@@ -1,3 +1,5 @@
+# Chaacter Class Assignment by Ibrahim Ismayilov
+
 # TASK 1
 class Character:
     # Constructor: Properties (State)
